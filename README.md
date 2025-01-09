@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & Data Scraping<br>👯 I’m looking to collaborate on projects surrounding ROBLOX analytics<br>🤝 I’m looking for help with understanding predicted numbers surrounding on the platform<br>🌱 I’m currently learning computer science & actively learning new languages<br>💬 Ask me about anyt<br>⚡ Fun fact
+🔭 I’m currently working on AI & Data Scraping<br>👯 I’m looking to collaborate on projects surrounding ROBLOX analytics<br>🤝 I’m looking for help with understanding predicted numbers surrounding on the platform<br>🌱 I’m currently learning computer science & actively learning new languages<br>
 
 
 # 💻 Tech Stack:
