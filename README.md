@@ -13,7 +13,11 @@ Enhancing predictive models to analyze trends and metrics effectively on gaming 
 Advancing my expertise in computer science, exploring new programming languages, and enhancing my full-stack development skills.
 
 💼 **About Me:**  
-I’m a **Full-Stack Web Developer** and the proud **Owner of [Sparkle.gg](https://sparkle.gg)**. Sparkle.gg specializes in offering tools for data analytics, gaming enhancements, and innovative solutions for the online gaming industry.
+I’m a **Full-Stack Web Developer** and the proud owner of [Sparkle.gg](https://sparkle.gg) and [Adurite.com](https://adurite.com).
+
+- **Sparkle.gg:** Specializes in offering tools for data analytics, gaming enhancements, and innovative solutions for the online gaming industry.
+
+- **Adurite.com:** A premier player-to-player marketplace for buying and selling limited items, averaging around **$20 million** in yearly transaction volume. Adurite provides a seamless and trusted platform for in-game item trading, serving thousands of users in the gaming community.
 
 📫 **Connect With Me:**  
 Let’s collaborate to build something amazing!
