@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on AI & Data Scraping<br>👯 I’m looking to collaborate on projects surrounding ROBLOX analytics<br>🤝 I’m looking for help with understanding predicted numbers surrounding on the platform<br>🌱 I’m currently learning computer science & actively learning new languages<br>
+# 💫 About Me
+
+🔭 **Currently Working On:**  
+Developing AI projects, data scraping tools, and creating innovative solutions for platforms like ROBLOX.
+
+👯 **Looking to Collaborate On:**  
+Projects involving ROBLOX analytics, data visualization, and predictive tools for the platform.
+
+🤝 **Seeking Support With:**  
+Enhancing predictive models to analyze trends and metrics effectively on gaming platforms.
+
+🌱 **Actively Learning:**  
+Advancing my expertise in computer science, exploring new programming languages, and enhancing my full-stack development skills.
+
+💼 **About Me:**  
+I’m a **Full-Stack Web Developer** and the proud **Owner of [Sparkle.gg](https://sparkle.gg)**. Sparkle.gg specializes in offering tools for data analytics, gaming enhancements, and innovative solutions for the online gaming industry.
+
+📫 **Connect With Me:**  
+Let’s collaborate to build something amazing!
+
 
 
 # 💻 Tech Stack:
